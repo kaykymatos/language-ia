@@ -1,0 +1,58 @@
+1 - 
+Positividade: 70%
+Negatividade: 10%
+Neutralidade: 20%
+"A questão do aquecimento global realmente me preocupa. Sinto que todos precisamos fazer a nossa parte para reduzir as emissões e preservar o nosso planeta para as próximas gerações."
+
+2 - 
+Positividade: 60%
+Negatividade: 20%
+Neutralidade: 20%
+"Sempre fui fascinado pela literatura clássica. É impressionante como essas obras continuam relevantes, oferecendo insights sobre diferentes culturas e épocas."
+
+3 - 
+Positividade: 80%
+Negatividade: 5%
+Neutralidade: 15%
+"A inteligência artificial é algo que me intriga. Fico animado com as possibilidades, mas também tenho minhas preocupações sobre o impacto que isso pode ter em empregos e na sociedade em geral."
+
+4 - 
+Positividade: 50%
+Negatividade: 30%
+Neutralidade: 20%
+"Acredito firmemente na importância da diversidade e inclusão. É crucial construirmos uma sociedade onde todos tenham oportunidades iguais, independentemente de sua origem ou identidade."
+
+5 - 
+Positividade: 80%
+Negatividade: 5%
+Neutralidade: 15%
+"Quando penso em felicidade, vejo isso como uma jornada única para cada pessoa. Pode estar em relacionamentos, realizações profissionais ou simples momentos do dia a dia."
+
+6 - 
+Positividade: 70%
+Negatividade: 10%
+Neutralidade: 20%
+"Sou um entusiasta da gastronomia. Acho incrível como a comida é uma forma tão rica de expressar culturas e tradições ao redor do mundo."
+
+7 - 
+Positividade: 75%
+Negatividade: 5%
+Neutralidade: 20%
+"Educação é tudo para mim. Acredito que é a chave para o desenvolvimento pessoal e para construir uma sociedade mais justa e equitativa."
+
+8 - 
+Positividade: 80%
+Negatividade: 5%
+Neutralidade: 15%
+"A música é minha paixão. Ela vai além de línguas e fronteiras, conectando as pessoas de maneiras que poucas coisas conseguem."
+
+9 - 
+Positividade: 85%
+Negatividade: 5%
+Neutralidade: 10%
+"Estou empolgado com os avanços tecnológicos. A computação quântica e a exploração espacial representam um futuro emocionante cheio de possibilidades."
+
+10 - 
+Positividade: 80%
+Negatividade: 5%
+Neutralidade: 15%
